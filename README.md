@@ -4,7 +4,7 @@ I was able to work more with SQLite and figure out how to use sql inside of my c
 and average wage hourly as well as annually. In my program I make a database, use update, deletes, and queries to search for information. 
 I wrote this software as a way to query and summarize data.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/GuUgpfxSGPc)
 
 # Relational Database
 

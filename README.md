@@ -19,7 +19,6 @@ I used SQLite and well as pythin in visual studio code.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [SQLite Databases](https://www.youtube.com/watch?v=byHcYRpMgI4)
 * [SQLite Tutorials](https://www.sqlitetutorial.net/sqlite-aggregate-functions/)
 
